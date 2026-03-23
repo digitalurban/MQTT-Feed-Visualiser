@@ -1,0 +1,5 @@
+{
+  "name": "MQTT Visualiser",
+  "description": "A 128x128 real-time MQTT visualization dashboard connecting to mqtt.cetools.org, featuring branch-based color coding, activity flashing, and inactivity timeouts.",
+  "requestFramePermissions": []
+}
